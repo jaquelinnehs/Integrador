@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ProyectoIntegrador {
 
     public static void main(String args[]) {
+        System.out.println("El codigo esta diseñado para soportar hasta 9 digitos ya que esta declarado con un int")
             Scanner kevino=new Scanner(System.in);
      System.out.println("Ingresa el numero que deseas transformar");
      int decimal=kevino.nextInt();
