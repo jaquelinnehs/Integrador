@@ -2,7 +2,7 @@ package com.mycompany.experimenta;
 
 import java.util.Scanner;
 
-public class Experimenta {
+public class Ejercicio_1 {
 
     public static void main(String[] args) {
         double x1, y1, x2, y2, m, b, x, y0, x3;
